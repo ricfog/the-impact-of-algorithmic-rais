@@ -1,0 +1,532 @@
+age,gender,race,education,location,ml_familiarity,id
+51,Male,White,Graduate degree,Washington,Yes,1
+56,Male,Asian,Associate degree,California,Yes,2
+36,Male,Black or African American,Bachelor degree,Florida,Yes,3
+34,Male,White,Graduate degree,California,Yes,4
+34,Male,White,Bachelor degree,Texas,No,5
+29,Male,White,Some college but no degree,Michigan,No,6
+62,Female,White,Some college but no degree,Florida,Yes,7
+71,Female,White,Associate degree,Virginia,Yes,8
+43,Male,White,Bachelor degree,Texas,Yes,9
+24,Transgender female,White,Bachelor degree,Florida,Yes,10
+30,Male,Asian,Graduate degree,Texas,Yes,11
+33,Male,Asian,Graduate degree,Maryland,No,12
+31,Female,White,Bachelor degree,Florida,No,13
+26,Male,White,Bachelor degree,California,No,14
+40,Female,White,Some college but no degree,Texas,Yes,15
+28,Male,White,Associate degree,Pennsylvania,No,16
+27,Male,American Indian or Alaska Native,Bachelor degree,California,Yes,17
+34,Male,Black or African American,Bachelor degree,California,Yes,18
+38,Male,White,Some college but no degree,Michigan,Yes,19
+28,Male,White,Bachelor degree,New York,No,20
+37,Male,Asian,Bachelor degree,Indiana,Yes,21
+25,Female,Not in these categories,Bachelor degree,North Carolina,Yes,22
+29,Female,White,Some college but no degree,Minnesota,No,23
+54,Female,White,Some college but no degree,Washington,Yes,24
+35,Male,Black or African American,Some college but no degree,North Carolina,No,25
+79,Female,White,Graduate degree,Florida,Yes,26
+57,Male,White,Bachelor degree,Ohio,No,27
+40,Female,Black or African American,High school degree or equivalent,Alabama,No,28
+32,Male,White,Bachelor degree,Texas,No,29
+63,Female,White,Graduate degree,Virginia,Yes,30
+54,Male,White,Some college but no degree,California,Yes,31
+34,Female,White,Bachelor degree,Michigan,Yes,32
+31,Male,White,Graduate degree,Maryland,No,33
+45,Male,White,Some college but no degree,North Carolina,No,34
+49,Male,White,Bachelor degree,Indiana,Yes,35
+29,Male,Black or African American,Some college but no degree,California,Yes,36
+59,Male,White,Bachelor degree,Colorado,Yes,37
+61,Male,White,Bachelor degree,Oklahoma,No,38
+30,Male,Asian,Bachelor degree,Illinois,Yes,39
+45,Male,White,Bachelor degree,North Carolina,No,40
+36,Male,Black or African American,Bachelor degree,Illinois,No,41
+32,Female,White,Graduate degree,California,Yes,42
+33,Male,White,Less than high school degree,Texas,No,43
+22,Female,White,Some college but no degree,Florida,No,44
+28,Male,White,Associate degree,Florida,Yes,45
+37,Male,White,Bachelor degree,Arizona,Yes,46
+29,Male,Asian,Graduate degree,Georgia,No,47
+37,Female,Black or African American,Bachelor degree,Texas,Yes,48
+55,Female,White,Bachelor degree,South Carolina,Yes,49
+33,Male,Black or African American,Associate degree,Alabama,Yes,50
+48,Female,White,Some college but no degree,North Carolina,No,51
+25,Male,Black or African American,Bachelor degree,North Carolina,No,52
+51,Female,White,Some college but no degree,Texas,No,53
+45,Male,White,Associate degree,Ohio,Yes,54
+28,Male,White,Bachelor degree,California,No,55
+30,Male,American Indian or Alaska Native,Graduate degree,Arizona,No,56
+26,Male,White,Bachelor degree,Maryland,Yes,57
+53,Male,White,Bachelor degree,California,Yes,58
+42,Female,White,Graduate degree,California,No,59
+52,Male,White,Bachelor degree,Maryland,Yes,60
+34,Female,White,Bachelor degree,Vermont,No,61
+47,Male,White,Graduate degree,North Carolina,Yes,62
+40,Male,White,Graduate degree,Alabama,No,63
+38,Male,Black or African American,Graduate degree,Illinois,No,64
+27,Female,White,Bachelor degree,Virginia,No,65
+35,Female,Black or African American,Bachelor degree,California,No,66
+69,Female,White,Some college but no degree,Florida,Yes,67
+30,Female,White,Graduate degree,Virginia,Yes,68
+29,Male,White,High school degree or equivalent,Texas,Yes,69
+26,Female,White,Bachelor degree,Washington,Yes,70
+49,Male,White,Bachelor degree,Texas,Yes,71
+30,Male,Black or African American,Bachelor degree,California,Yes,72
+63,Male,Black or African American,Bachelor degree,New York,Yes,73
+37,Male,Asian,Bachelor degree,Illinois,No,74
+31,Female,White,High school degree or equivalent,Florida,Yes,75
+66,Male,White,Associate degree,Florida,No,76
+38,Male,White,High school degree or equivalent,California,No,77
+37,Male,White,High school degree or equivalent,New York,No,78
+25,Female,Black or African American,Associate degree,Texas,No,79
+61,Female,White,Bachelor degree,New Jersey,No,80
+21,Male,Black or African American,High school degree or equivalent,Ohio,Yes,81
+52,Male,White,Graduate degree,Arkansas,Yes,82
+30,Female,Black or African American,Graduate degree,Florida,Yes,83
+42,Female,White,Bachelor degree,California,No,84
+30,Female,Black or African American,Graduate degree,Washington,Yes,85
+28,Male,Asian,Graduate degree,Maryland,No,86
+30,Female,White,Graduate degree,New York,Yes,87
+40,Female,Black or African American,Graduate degree,Massachusetts,Yes,88
+22,Female,White,High school degree or equivalent,Virginia,No,89
+59,Female,White,Graduate degree,Illinois,No,90
+36,Male,Black or African American,Bachelor degree,California,No,91
+52,Female,White,Bachelor degree,California,No,92
+57,Female,White,Associate degree,Virginia,No,93
+26,Male,White,Some college but no degree,North Carolina,Yes,94
+44,Male,Black or African American,Bachelor degree,Michigan,Yes,95
+44,Male,White,Bachelor degree,California,Yes,96
+39,Female,White,Bachelor degree,Michigan,No,97
+26,Male,American Indian or Alaska Native,Bachelor degree,California,Yes,98
+43,Male,White,Bachelor degree,Kansas,No,99
+25,Female,Black or African American,Graduate degree,Alabama,Yes,100
+31,Male,White,High school degree or equivalent,Texas,No,101
+38,Male,White,Bachelor degree,Texas,Yes,102
+39,Male,White,Bachelor degree,Kentucky,Yes,103
+32,Male,White,Bachelor degree,Rhode Island,No,104
+28,Female,White,Graduate degree,California,Yes,105
+38,Male,Asian,High school degree or equivalent,Nevada,No,106
+45,Female,Black or African American,Graduate degree,Nevada,Yes,107
+43,Female,White,Graduate degree,Wisconsin,No,108
+29,Female,White,Associate degree,Wisconsin,Yes,109
+53,Female,White,Associate degree,Georgia,No,110
+30,Male,White,High school degree or equivalent,Kentucky,No,111
+35,Male,Black or African American,Bachelor degree,Arizona,Yes,112
+62,Female,Black or African American,Bachelor degree,Nevada,Yes,113
+42,Female,Black or African American,Bachelor degree,California,Yes,114
+42,Male,Black or African American,Graduate degree,Texas,No,115
+51,Female,White,Bachelor degree,New York,No,116
+33,Male,Black or African American,High school degree or equivalent,Michigan,No,117
+39,Female,White,Bachelor degree,Florida,Yes,118
+46,Female,White,High school degree or equivalent,New Jersey,Yes,119
+25,Female,White,Bachelor degree,Connecticut,Yes,120
+23,Male,White,Associate degree,Florida,Yes,121
+57,Female,White,Bachelor degree,California,Yes,122
+32,Male,White,Bachelor degree,Pennsylvania,Yes,123
+46,Male,Black or African American,Graduate degree,Florida,Yes,124
+52,Male,White,Bachelor degree,Michigan,Yes,125
+40,Male,White,Bachelor degree,Illinois,Yes,126
+31,Female,White,Associate degree,California,Yes,127
+37,Male,White,Bachelor degree,Florida,Yes,128
+50,Male,White,Bachelor degree,California,Yes,129
+57,Male,White,Bachelor degree,Virginia,Yes,130
+48,Female,White,Graduate degree,Florida,Yes,131
+29,Female,White,Some college but no degree,Wisconsin,No,132
+29,Male,White,Graduate degree,New York,Yes,133
+36,Male,White,Bachelor degree,New Mexico,No,134
+30,Transgender female,Black or African American,Graduate degree,Hawaii,No,135
+32,Male,White,Graduate degree,Tennessee,No,136
+30,Male,White,Some college but no degree,Florida,Yes,137
+52,Male,White,Bachelor degree,Tennessee,No,138
+32,Male,Black or African American,Bachelor degree,Michigan,No,139
+68,Female,White,Bachelor degree,Illinois,No,140
+38,Female,White,Bachelor degree,Vermont,Yes,141
+64,Male,White,Associate degree,Florida,No,142
+25,Male,White,Bachelor degree,Oregon,Yes,143
+43,Male,White,Associate degree,Pennsylvania,No,144
+32,Male,White,Bachelor degree,Mississippi,No,145
+26,Female,White,Associate degree,Minnesota,No,146
+53,Female,White,Associate degree,Texas,Yes,147
+38,Male,White,Bachelor degree,Virginia,No,148
+37,Male,White,Bachelor degree,New York,No,149
+24,Male,White,High school degree or equivalent,Indiana,No,150
+28,Female,White,Bachelor degree,Oregon,Yes,151
+26,Male,Black or African American,Bachelor degree,Kansas,Yes,152
+38,Male,White,Bachelor degree,Arizona,No,153
+40,Male,White,Graduate degree,Texas,No,154
+27,Male,Black or African American,High school degree or equivalent,Maryland,No,155
+32,Female,White,Bachelor degree,Minnesota,Yes,156
+40,Male,White,High school degree or equivalent,California,Yes,157
+37,Male,White,High school degree or equivalent,Illinois,Yes,158
+29,Male,White,Bachelor degree,Florida,No,159
+65,Female,White,Bachelor degree,Nevada,No,160
+30,Female,White,Bachelor degree,Washington,No,161
+31,Male,White,Bachelor degree,Texas,No,162
+36,Female,White,Bachelor degree,South Carolina,Yes,163
+35,Male,White,Bachelor degree,New York,Yes,164
+40,Male,White,Bachelor degree,New Mexico,Yes,165
+34,Male,White,Graduate degree,Washington,No,166
+28,Female,Not in these categories,Bachelor degree,Texas,No,167
+40,Male,Asian,Graduate degree,Louisiana,No,168
+28,Female,White,Graduate degree,California,Yes,169
+47,Female,White,Bachelor degree,California,No,170
+34,Female,White,Bachelor degree,Minnesota,No,171
+28,Male,White,Bachelor degree,Kentucky,No,172
+31,Male,White,Bachelor degree,Arizona,No,173
+39,Female,White,Graduate degree,Florida,No,174
+29,Male,White,Bachelor degree,Tennessee,No,175
+37,Male,White,Some college but no degree,Kentucky,Yes,176
+32,Male,Black or African American,Graduate degree,Pennsylvania,Yes,177
+26,Male,White,Bachelor degree,California,No,178
+49,Female,White,Bachelor degree,Louisiana,Yes,179
+53,Male,White,Some college but no degree,New Jersey,No,180
+61,Male,White,High school degree or equivalent,North Carolina,Yes,181
+29,Male,White,Bachelor degree,Florida,No,182
+43,Male,White,Some college but no degree,Kentucky,No,183
+26,Male,Black or African American,Bachelor degree,Washington,No,184
+32,Female,Black or African American,Graduate degree,Florida,Yes,185
+47,Female,White,Bachelor degree,Ohio,No,186
+27,Male,White,Some college but no degree,Illinois,Yes,187
+29,Male,White,Bachelor degree,Florida,Yes,188
+72,Male,White,Prefer not to say,California,No,189
+28,Male,White,Bachelor degree,Illinois,Yes,190
+30,Male,Black or African American,Bachelor degree,California,Yes,191
+32,Male,White,Bachelor degree,Oregon,Yes,192
+42,Male,Asian,Bachelor degree,California,No,193
+34,Male,White,Bachelor degree,Florida,Yes,194
+39,Female,White,High school degree or equivalent,Tennessee,Yes,195
+31,Male,Asian,Associate degree,Texas,No,196
+27,Male,Not in these categories,Some college but no degree,California,No,197
+30,Male,Asian,Graduate degree,Georgia,No,198
+29,Male,White,High school degree or equivalent,Illinois,No,199
+29,Female,White,Bachelor degree,South Carolina,No,200
+29,Female,Black or African American,Graduate degree,Georgia,Yes,201
+25,Female,White,Bachelor degree,Connecticut,Yes,202
+47,Female,White,Bachelor degree,Pennsylvania,No,203
+56,Male,White,Bachelor degree,Texas,Yes,204
+38,Female,White,Graduate degree,California,Yes,205
+50,Male,White,Graduate degree,New York,Yes,206
+42,Male,White,Bachelor degree,Colorado,Yes,207
+26,Male,Asian,Some college but no degree,Georgia,No,208
+74,Male,White,Some college but no degree,Massachusetts,No,209
+36,Male,White,Bachelor degree,Colorado,No,210
+39,Female,White,Associate degree,Tennessee,Yes,211
+39,Female,Black or African American,Bachelor degree,Ohio,No,212
+38,Male,White,Bachelor degree,Wisconsin,Yes,213
+35,Female,White,Bachelor degree,Texas,Yes,214
+49,Male,White,Some college but no degree,Florida,Yes,215
+36,Male,White,High school degree or equivalent,Michigan,No,216
+53,Female,White,Some college but no degree,Kentucky,No,217
+24,Female,White,Bachelor degree,Texas,No,218
+43,Female,White,High school degree or equivalent,Virginia,No,219
+56,Female,White,High school degree or equivalent,California,No,220
+44,Female,White,Bachelor degree,Virginia,No,221
+33,Female,American Indian or Alaska Native,Bachelor degree,California,No,222
+48,Male,White,Some college but no degree,New Jersey,No,223
+30,Male,White,Graduate degree,New York,Yes,224
+30,Male,White,Bachelor degree,Indiana,Yes,225
+78,Male,White,Associate degree,Florida,No,226
+52,Female,White,Bachelor degree,Texas,Yes,227
+59,Female,White,Bachelor degree,Texas,Yes,228
+25,Female,Asian,Bachelor degree,Missouri,No,229
+31,Male,White,Some college but no degree,Illinois,Yes,230
+26,Female,White,Bachelor degree,California,Yes,231
+34,Male,Asian,Bachelor degree,California,Yes,232
+47,Male,White,Bachelor degree,Washington,No,233
+39,Female,White,Bachelor degree,Pennsylvania,No,234
+44,Female,Black or African American,Bachelor degree,Alabama,No,235
+54,Female,White,Graduate degree,Arizona,Yes,236
+33,Male,Asian,Bachelor degree,New York,No,237
+51,Male,White,Bachelor degree,Florida,Yes,238
+47,Male,Black or African American,Graduate degree,Minnesota,Yes,239
+56,Male,White,Bachelor degree,California,Yes,240
+48,Female,White,Bachelor degree,South Carolina,Yes,241
+30,Male,Black or African American,Bachelor degree,Nevada,Yes,242
+35,Male,White,Bachelor degree,North Carolina,Yes,243
+32,Male,White,Associate degree,Texas,Yes,244
+59,Male,White,Bachelor degree,Oklahoma,No,245
+40,Male,White,Graduate degree,Illinois,Yes,246
+37,Male,Black or African American,Associate degree,Florida,No,247
+34,Male,White,High school degree or equivalent,Florida,Yes,248
+36,Male,White,Bachelor degree,Kansas,No,249
+29,Male,White,Bachelor degree,Florida,Yes,250
+40,Male,Asian,Bachelor degree,Arizona,Yes,251
+32,Male,Black or African American,Graduate degree,Michigan,Yes,252
+25,Male,White,Bachelor degree,Connecticut,No,253
+31,Male,White,Bachelor degree,California,Yes,254
+41,Female,White,High school degree or equivalent,North Carolina,Yes,255
+34,Female,Not in these categories,Bachelor degree,Missouri,No,256
+40,Male,White,Associate degree,Michigan,Yes,257
+28,Female,White,High school degree or equivalent,Pennsylvania,Yes,258
+37,Male,White,Bachelor degree,Texas,No,259
+42,Male,White,Bachelor degree,Texas,No,260
+37,Male,White,Graduate degree,New York,No,261
+34,Male,White,Bachelor degree,New Jersey,No,262
+48,Female,White,Bachelor degree,Virginia,Yes,263
+38,Female,White,Bachelor degree,Ohio,No,264
+35,Male,White,Bachelor degree,Arizona,No,265
+40,Male,Black or African American,Bachelor degree,New York,Yes,266
+57,Male,White,Bachelor degree,Missouri,Yes,267
+41,Male,White,Bachelor degree,Wisconsin,Yes,268
+46,Male,White,High school degree or equivalent,Nevada,Yes,269
+29,Male,White,Bachelor degree,North Carolina,No,270
+40,Female,White,Bachelor degree,Kansas,No,271
+32,Male,Black or African American,Graduate degree,Alabama,Yes,272
+34,Male,American Indian or Alaska Native,Bachelor degree,Tennessee,No,273
+27,Male,White,Bachelor degree,New Mexico,No,274
+38,Female,White,Bachelor degree,New York,No,275
+52,Male,White,Bachelor degree,North Carolina,No,276
+55,Female,White,Graduate degree,Vermont,No,277
+30,Male,Black or African American,Bachelor degree,Florida,No,278
+25,Male,White,Bachelor degree,New York,No,279
+33,Male,White,Bachelor degree,Illinois,Yes,280
+38,Female,White,Bachelor degree,Florida,No,281
+41,Male,White,Bachelor degree,Nevada,Yes,282
+23,Male,White,Bachelor degree,California,Yes,283
+34,Male,White,Graduate degree,Delaware,Yes,284
+30,Male,Black or African American,Bachelor degree,Maryland,Yes,285
+43,Female,White,Bachelor degree,Virginia,No,286
+30,Male,Not in these categories,Associate degree,Massachusetts,No,287
+48,Male,White,Some college but no degree,Michigan,No,288
+49,Male,White,Bachelor degree,West Virginia,No,289
+27,Female,White,Some college but no degree,Texas,Yes,290
+30,Female,White,Graduate degree,New York,No,291
+27,Male,Asian,Bachelor degree,Arizona,No,292
+28,Male,White,Bachelor degree,Indiana,No,293
+30,Male,White,Bachelor degree,New Mexico,Yes,294
+25,Female,White,Some college but no degree,Ohio,No,295
+57,Female,White,Bachelor degree,Arizona,No,296
+80,Female,White,Bachelor degree,California,No,297
+37,Male,White,Bachelor degree,Pennsylvania,Yes,298
+36,Male,White,Graduate degree,Pennsylvania,Yes,299
+47,Male,White,Bachelor degree,Florida,Yes,300
+69,Female,White,Associate degree,Tennessee,No,301
+31,Male,Asian,Graduate degree,Illinois,No,302
+33,Male,White,Bachelor degree,Illinois,No,303
+40,Female,White,Bachelor degree,California,Yes,304
+39,Female,Black or African American,Graduate degree,Indiana,Yes,305
+32,Female,White,Bachelor degree,California,Yes,306
+29,Female,White,High school degree or equivalent,Illinois,No,307
+30,Male,Black or African American,Graduate degree,Ohio,Yes,308
+61,Male,White,Some college but no degree,Texas,Yes,309
+26,Male,White,Bachelor degree,Virginia,No,310
+26,Male,White,Bachelor degree,Connecticut,Yes,311
+34,Male,White,Bachelor degree,Florida,No,312
+45,Male,White,Graduate degree,New York,No,313
+25,Male,White,Bachelor degree,Arizona,Yes,314
+29,Female,White,Bachelor degree,Texas,No,315
+38,Female,Black or African American,Bachelor degree,Texas,Yes,316
+26,Male,Asian,Bachelor degree,Massachusetts,Yes,317
+30,Female,White,Bachelor degree,Pennsylvania,Yes,318
+37,Male,White,Some college but no degree,Florida,No,319
+26,Male,American Indian or Alaska Native,Bachelor degree,Nevada,Yes,320
+46,Male,White,Bachelor degree,Texas,No,321
+41,Male,White,Bachelor degree,North Carolina,No,322
+46,Male,White,Bachelor degree,West Virginia,No,323
+25,Female,White,Bachelor degree,Nevada,No,324
+34,Male,American Indian or Alaska Native,Bachelor degree,Missouri,No,325
+32,Male,White,Associate degree,Florida,Yes,326
+18,Female,White,High school degree or equivalent,Illinois,No,327
+39,Male,White,Bachelor degree,New Jersey,No,328
+30,Male,American Indian or Alaska Native,Bachelor degree,Georgia,Yes,329
+55,Female,White,Associate degree,Massachusetts,Yes,330
+30,Male,Black or African American,Bachelor degree,New Jersey,No,331
+30,Male,White,Bachelor degree,Colorado,No,332
+44,Male,White,Some college but no degree,Georgia,Yes,333
+25,Female,White,Bachelor degree,Connecticut,Yes,334
+42,Male,White,Bachelor degree,Minnesota,Yes,335
+53,Male,White,Bachelor degree,Georgia,No,336
+28,Male,White,High school degree or equivalent,Florida,Yes,337
+30,Male,White,Bachelor degree,North Carolina,Yes,338
+24,Male,White,High school degree or equivalent,Maryland,No,339
+67,Male,Black or African American,Graduate degree,California,Yes,340
+45,Male,White,Bachelor degree,Colorado,No,341
+27,Male,White,Bachelor degree,California,Yes,342
+33,Male,White,Associate degree,Nebraska,Yes,343
+38,Male,White,Bachelor degree,California,No,344
+39,Male,White,Bachelor degree,Texas,No,345
+28,Female,White,Graduate degree,California,Yes,346
+31,Female,White,Some college but no degree,New York,Yes,347
+29,Female,White,Associate degree,California,Yes,348
+32,Male,White,Bachelor degree,Kentucky,No,349
+32,Male,Black or African American,Bachelor degree,California,No,350
+25,Female,Asian,Bachelor degree,Washington,No,351
+45,Female,White,Bachelor degree,California,Yes,352
+70,Male,White,Graduate degree,Louisiana,No,353
+34,Female,White,Bachelor degree,North Carolina,No,354
+26,Female,White,High school degree or equivalent,Virginia,No,355
+49,Male,White,Bachelor degree,California,Yes,356
+20,Male,White,Some college but no degree,Illinois,Yes,357
+65,Male,White,Bachelor degree,Nevada,No,358
+37,Female,White,Graduate degree,Kentucky,Yes,359
+29,Female,White,Graduate degree,New York,No,360
+34,Male,White,Some college but no degree,Tennessee,Yes,361
+29,Male,Black or African American,Some college but no degree,Florida,Yes,362
+33,Male,White,Bachelor degree,New York,Yes,363
+29,Male,White,Bachelor degree,New York,Yes,364
+30,Male,White,Bachelor degree,Delaware,No,365
+29,Male,White,Bachelor degree,North Carolina,No,366
+33,Female,White,Bachelor degree,Oklahoma,No,367
+25,Female,White,Some college but no degree,Alabama,No,368
+30,Male,White,Bachelor degree,Illinois,No,369
+41,Female,White,High school degree or equivalent,New Jersey,No,370
+47,Female,White,Some college but no degree,Ohio,No,371
+36,Male,Asian,Bachelor degree,New Jersey,No,372
+74,Male,White,Some college but no degree,Iowa,No,373
+58,Female,White,Graduate degree,New York,Yes,374
+18,Male,Asian,High school degree or equivalent,California,No,375
+33,Male,Black or African American,Graduate degree,Louisiana,Yes,376
+31,Female,Black or African American,Bachelor degree,Minnesota,Yes,377
+36,Male,White,Bachelor degree,Minnesota,No,378
+22,Female,White,Bachelor degree,California,No,379
+29,Male,White,Graduate degree,New York,Yes,380
+69,Male,White,Bachelor degree,Texas,Yes,381
+62,Female,White,Bachelor degree,California,Yes,382
+45,Male,White,Bachelor degree,South Carolina,Yes,383
+29,Female,White,Graduate degree,Florida,Yes,384
+36,Male,Black or African American,Bachelor degree,North Carolina,Yes,385
+49,Male,White,Bachelor degree,California,Yes,386
+56,Female,White,Associate degree,Idaho,No,387
+35,Male,White,Bachelor degree,West Virginia,Yes,388
+45,Male,White,Bachelor degree,Kentucky,Yes,389
+41,Female,White,Bachelor degree,Colorado,Yes,390
+66,Male,White,Associate degree,North Carolina,No,391
+39,Female,White,Associate degree,Texas,No,392
+32,Male,Black or African American,Bachelor degree,South Carolina,No,393
+27,Male,Asian,Graduate degree,Michigan,No,394
+49,Male,White,Bachelor degree,New York,Yes,395
+49,Male,White,Graduate degree,Indiana,Yes,396
+65,Male,White,Graduate degree,North Carolina,Yes,397
+38,Male,White,Bachelor degree,Michigan,Yes,398
+26,Female,White,Bachelor degree,New York,No,399
+27,Male,White,Bachelor degree,Florida,No,400
+28,Female,White,Bachelor degree,California,No,401
+25,Male,White,Bachelor degree,Illinois,Yes,402
+31,Male,Asian,Graduate degree,California,Yes,403
+47,Male,White,Bachelor degree,Minnesota,No,404
+57,Female,White,Some college but no degree,California,Yes,405
+42,Male,Black or African American,Graduate degree,California,No,406
+64,Female,White,Bachelor degree,Florida,No,407
+35,Prefer not to say,White,Some college but no degree,New Jersey,Yes,408
+39,Male,Black or African American,High school degree or equivalent,Arkansas,No,409
+33,Male,White,Bachelor degree,Texas,Yes,410
+34,Not in these categories,Asian,Associate degree,Michigan,Yes,411
+29,Male,White,High school degree or equivalent,North Carolina,No,412
+32,Male,Black or African American,Graduate degree,Pennsylvania,Yes,413
+38,Female,White,Bachelor degree,Georgia,Yes,414
+37,Female,White,Some college but no degree,Michigan,Yes,415
+45,Female,White,Bachelor degree,Georgia,No,416
+33,Male,White,Bachelor degree,California,Yes,417
+33,Male,Asian,Some college but no degree,Maryland,Yes,418
+41,Female,White,Bachelor degree,Michigan,No,419
+33,Male,White,Bachelor degree,Pennsylvania,No,420
+53,Male,White,Bachelor degree,Missouri,Yes,421
+43,Female,White,Bachelor degree,Colorado,Yes,422
+28,Male,White,High school degree or equivalent,Wisconsin,Yes,423
+30,Male,White,Bachelor degree,Arizona,Yes,424
+43,Female,White,Bachelor degree,Connecticut,Yes,425
+29,Male,White,High school degree or equivalent,Virginia,Yes,426
+38,Male,White,Graduate degree,Wisconsin,No,427
+33,Male,Black or African American,Bachelor degree,Pennsylvania,Yes,428
+30,Female,Black or African American,Bachelor degree,South Carolina,Yes,429
+32,Male,Black or African American,Bachelor degree,Texas,Yes,430
+57,Male,White,Bachelor degree,California,No,431
+34,Not in these categories,White,Associate degree,New York,Yes,432
+36,Male,White,Less than high school degree,Florida,Yes,433
+42,Male,White,Bachelor degree,Ohio,No,434
+35,Male,Black or African American,Graduate degree,California,Yes,435
+25,Male,White,Bachelor degree,New York,Yes,436
+33,Female,White,High school degree or equivalent,Georgia,No,437
+27,Male,Black or African American,Some college but no degree,Maryland,No,438
+60,Male,White,Bachelor degree,Arizona,Yes,439
+30,Male,White,Bachelor degree,Illinois,Yes,440
+46,Male,White,Bachelor degree,Illinois,Yes,441
+37,Male,White,Bachelor degree,New York,No,442
+31,Male,White,Some college but no degree,New York,Yes,443
+60,Male,White,Some college but no degree,Pennsylvania,No,444
+35,Male,White,Graduate degree,California,Yes,445
+31,Male,Asian,Bachelor degree,Nevada,No,446
+31,Male,White,Bachelor degree,New York,No,447
+36,Female,White,Bachelor degree,South Carolina,Yes,448
+35,Female,White,Bachelor degree,Missouri,No,449
+47,Male,White,Graduate degree,Utah,No,450
+28,Male,White,Bachelor degree,Texas,No,451
+37,Male,White,Bachelor degree,North Carolina,Yes,452
+29,Male,Not in these categories,Some college but no degree,New York,Yes,453
+72,Female,White,High school degree or equivalent,Kentucky,No,454
+27,Male,White,Bachelor degree,Utah,Yes,455
+30,Male,White,Bachelor degree,Rhode Island,No,456
+67,Male,White,Some college but no degree,Illinois,No,457
+70,Male,White,Bachelor degree,Oregon,No,458
+48,Male,White,Bachelor degree,Texas,No,459
+53,Female,White,Associate degree,Arizona,No,460
+49,Female,Black or African American,Bachelor degree,Texas,Yes,461
+39,Male,Black or African American,Graduate degree,California,Yes,462
+32,Female,White,Associate degree,Michigan,No,463
+22,Male,White,Bachelor degree,New York,No,464
+29,Male,White,Bachelor degree,New York,Yes,465
+29,Female,White,Bachelor degree,Massachusetts,Yes,466
+45,Male,White,Bachelor degree,Louisiana,No,467
+25,Female,White,Bachelor degree,Connecticut,No,468
+26,Male,White,Bachelor degree,Ohio,Yes,469
+33,Female,Not in these categories,Associate degree,Michigan,No,470
+33,Male,White,High school degree or equivalent,Illinois,Yes,471
+38,Male,White,Bachelor degree,Wyoming,No,472
+34,Male,White,Bachelor degree,Ohio,No,473
+33,Male,Asian,Bachelor degree,Illinois,No,474
+37,Female,White,Some college but no degree,New Hampshire,No,475
+25,Female,Asian,Bachelor degree,California,No,476
+30,Male,Black or African American,Bachelor degree,Minnesota,Yes,477
+41,Male,White,Bachelor degree,Alabama,Yes,478
+29,Male,Black or African American,Bachelor degree,Arizona,Yes,479
+38,Male,White,Some college but no degree,California,No,480
+32,Female,White,Graduate degree,New York,No,481
+37,Male,White,Graduate degree,Wisconsin,No,482
+42,Female,White,High school degree or equivalent,Florida,No,483
+54,Male,White,Bachelor degree,Florida,Yes,484
+65,Female,White,Some college but no degree,Washington,Yes,485
+54,Male,White,Associate degree,Texas,No,486
+31,Male,White,High school degree or equivalent,Pennsylvania,Yes,487
+30,Female,White,Bachelor degree,New York,Yes,488
+53,Female,Black or African American,Bachelor degree,California,Yes,489
+40,Male,White,Bachelor degree,New York,No,490
+48,Male,White,Some college but no degree,Ohio,No,491
+35,Male,White,Graduate degree,California,Yes,492
+61,Female,Black or African American,Graduate degree,Arizona,Yes,493
+49,Male,White,Graduate degree,None of these states,No,494
+41,Female,White,Bachelor degree,Florida,Yes,495
+32,Male,Black or African American,Graduate degree,Pennsylvania,Yes,496
+69,Female,White,Bachelor degree,Florida,No,497
+61,Male,White,Graduate degree,California,No,498
+29,Male,White,Bachelor degree,Florida,No,499
+49,Female,White,Bachelor degree,Kentucky,Yes,500
+37,Female,White,Associate degree,New Jersey,No,501
+35,Female,White,Graduate degree,Texas,Yes,502
+52,Female,Asian,Bachelor degree,Illinois,Yes,503
+45,Female,White,Bachelor degree,Ohio,Yes,504
+29,Female,American Indian or Alaska Native,Some college but no degree,Tennessee,No,505
+39,Male,White,Bachelor degree,Pennsylvania,No,506
+30,Male,White,Bachelor degree,Texas,Yes,507
+31,Female,Black or African American,Some college but no degree,Illinois,No,508
+49,Female,White,Bachelor degree,New Jersey,Yes,509
+36,Female,Black or African American,Bachelor degree,Florida,No,510
+29,Male,Black or African American,Associate degree,Indiana,No,511
+40,Female,White,Bachelor degree,Pennsylvania,No,512
+20,Female,White,Associate degree,Washington,Yes,513
+59,Female,White,Bachelor degree,Nevada,No,514
+33,Female,White,Some college but no degree,Texas,No,515
+27,Male,White,Bachelor degree,California,Yes,516
+55,Male,White,Bachelor degree,Illinois,Yes,517
+32,Male,White,Bachelor degree,California,No,518
+26,Female,White,Some college but no degree,Connecticut,Yes,519
+38,Female,White,Graduate degree,New York,No,520
+58,Female,White,Some college but no degree,Michigan,No,521
+57,Female,White,Associate degree,Mississippi,No,522
+45,Female,White,Bachelor degree,Texas,No,523
+59,Female,Asian,Associate degree,Arizona,No,524
+47,Female,White,Graduate degree,Illinois,No,525
+35,Male,White,Bachelor degree,New York,Yes,526
+35,Female,White,Graduate degree,Pennsylvania,Yes,527
+29,Male,White,Graduate degree,New York,No,528
+30,Male,White,Bachelor degree,Texas,Yes,529
+33,Male,Black or African American,Some college but no degree,California,Yes,530
+25,Female,Black or African American,Bachelor degree,West Virginia,No,531
